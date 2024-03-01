@@ -1,6 +1,7 @@
-# Google Developer Student Club
-<img width="364" alt="image-removebg-preview" src="https://user-images.githubusercontent.com/71859025/202481056-0d41c8bb-48e4-455f-9a82-f4ddbc4e50a1.png">
-
+<h1 align="center">Google Developer Student Clubs - HANU</h1>
+<p align="center">
+  <img width="364" alt="image-removebg-preview" src="https://user-images.githubusercontent.com/71859025/202481056-0d41c8bb-48e4-455f-9a82-f4ddbc4e50a1.png">
+</p>
 ___
 
  - ### *Connect*
